@@ -1,0 +1,17 @@
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\bin\Debug\net7.0-windows\Temporizador.exe
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\bin\Debug\net7.0-windows\Temporizador.deps.json
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\bin\Debug\net7.0-windows\Temporizador.runtimeconfig.json
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\bin\Debug\net7.0-windows\Temporizador.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\bin\Debug\net7.0-windows\Temporizador.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.csproj.AssemblyReference.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.Form1.resources
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.csproj.GenerateResource.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.AssemblyInfoInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.AssemblyInfo.cs
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\refint\Temporizador.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\Temporizador.genruntimeconfig.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Temporizador\Temporizador\obj\Debug\net7.0-windows\ref\Temporizador.dll
